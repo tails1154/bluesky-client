@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.tailstter.bluesky'; compileSdk 31
+    defaultConfig { applicationId 'com.tailstter.bluesky'; minSdk 8; targetSdk 10; versionCode 1; versionName '1.0' }
+}

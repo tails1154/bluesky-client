@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+color sky
+drawable ic_bluesky
+drawable ic_bluesky_placeholder
+style AppTheme

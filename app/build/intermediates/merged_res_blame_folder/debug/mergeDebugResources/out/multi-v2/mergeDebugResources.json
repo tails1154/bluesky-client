@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tails1154/.gradle/daemon/9.6.1/com.tailstter.bluesky.app-debug-3:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/tails1154/bluesky-client-src/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "230",
+                        "endOffsets": "230"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "93",
+                        "endColumns": "223",
+                        "endOffsets": "312"
+                    }
+                },
+                {
+                    "source": "/home/tails1154/bluesky-client-src/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "44",
+                        "endOffsets": "44"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "37",
+                        "endOffsets": "88"
+                    }
+                }
+            ]
+        }
+    ]
+}

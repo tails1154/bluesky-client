@@ -1,0 +1,7 @@
+com.tailstter.bluesky.app-pngs-0 /home/tails1154/bluesky-client-src/app/build/generated/res/pngs/debug
+com.tailstter.bluesky.app-updated_navigation_xml-1 /home/tails1154/bluesky-client-src/app/build/generated/updated_navigation_xml/debug
+com.tailstter.bluesky.app-packageDebugResources-2 /home/tails1154/bluesky-client-src/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.tailstter.bluesky.app-packageDebugResources-3 /home/tails1154/bluesky-client-src/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.tailstter.bluesky.app-debug-4 /home/tails1154/bluesky-client-src/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.tailstter.bluesky.app-debug-5 /home/tails1154/bluesky-client-src/app/src/debug/res
+com.tailstter.bluesky.app-main-6 /home/tails1154/bluesky-client-src/app/src/main/res

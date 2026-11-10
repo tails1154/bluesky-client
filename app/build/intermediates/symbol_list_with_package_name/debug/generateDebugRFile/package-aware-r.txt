@@ -1,0 +1,5 @@
+com.tailstter.bluesky
+color sky
+drawable ic_bluesky
+drawable ic_bluesky_placeholder
+style AppTheme

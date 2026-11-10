@@ -1,0 +1,4 @@
+com.tailstter.bluesky:drawable/ic_bluesky_placeholder = 0x7f020001
+com.tailstter.bluesky:drawable/ic_bluesky = 0x7f020000
+com.tailstter.bluesky:style/AppTheme = 0x7f030000
+com.tailstter.bluesky:color/sky = 0x7f010000

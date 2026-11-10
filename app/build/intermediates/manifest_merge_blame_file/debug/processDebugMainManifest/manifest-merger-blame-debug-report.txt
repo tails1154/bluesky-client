@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tailstter.bluesky"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="8"
+8-->INJECTED
+9        android:targetSdkVersion="10" />
+9-->INJECTED
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:2:5-67
+11-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:2:22-64
+12
+13    <application
+13-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:3:5-7:19
+14        android:debuggable="true"
+15        android:extractNativeLibs="true"
+15-->INJECTED
+16        android:icon="@drawable/ic_bluesky"
+16-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:3:74-109
+17        android:label="BlueSky"
+17-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:3:50-73
+18        android:theme="@style/AppTheme" >
+18-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:3:18-49
+19        <activity
+19-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:4:9-6:20
+20            android:name="com.tailstter.bluesky.MainActivity"
+20-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:4:19-47
+21            android:exported="true"
+21-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:4:85-108
+22            android:screenOrientation="portrait" >
+22-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:4:48-84
+23            <intent-filter>
+23-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:5:13-154
+24                <action android:name="android.intent.action.MAIN" />
+24-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:5:28-79
+24-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:5:36-77
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:5:79-138
+26-->/home/tails1154/bluesky-client-src/app/src/main/AndroidManifest.xml:5:89-136
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>

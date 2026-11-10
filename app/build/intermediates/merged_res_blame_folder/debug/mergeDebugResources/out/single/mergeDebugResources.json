@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/tails1154/.gradle/daemon/9.6.1/com.tailstter.bluesky.app-debug-3:/drawable-hdpi_ic_bluesky.png.flat",
+        "source": "/home/tails1154/.gradle/daemon/9.6.1/com.tailstter.bluesky.app-main-5:/drawable-hdpi/ic_bluesky.png"
+    },
+    {
+        "merged": "com.tailstter.bluesky.app-debug-3:/drawable-hdpi_ic_bluesky.gif.flat",
+        "source": "com.tailstter.bluesky.app-main-5:/drawable-hdpi/ic_bluesky.gif"
+    },
+    {
+        "merged": "com.tailstter.bluesky.app-debug-3:/drawable-hdpi_ic_bluesky_placeholder.png.flat",
+        "source": "com.tailstter.bluesky.app-main-5:/drawable-hdpi/ic_bluesky_placeholder.png"
+    }
+]

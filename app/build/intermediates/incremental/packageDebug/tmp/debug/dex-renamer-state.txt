@@ -1,0 +1,4 @@
+#Tue Nov 10 10:06:11 CST 2026
+base.0=/home/tails1154/bluesky-client-src/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

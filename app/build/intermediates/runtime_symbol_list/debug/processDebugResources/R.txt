@@ -1,0 +1,4 @@
+int color sky 0x7f010000
+int drawable ic_bluesky 0x7f020000
+int drawable ic_bluesky_placeholder 0x7f020001
+int style AppTheme 0x7f030000
